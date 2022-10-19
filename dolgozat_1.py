@@ -12,7 +12,7 @@
 #1. (1) Írja ki, hogy: "Szép napot"
 print(Szép napot)
 
-#2. (2) Írja ki, hogy: "Sik sikert a dolgozathoz!"
+#2. (2) Írja ki, hogy: "Sok sikert a dolgozathoz!"
 if True:
 print("Sok sikert a dolgozathoz!")
 
