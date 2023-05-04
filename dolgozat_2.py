@@ -13,7 +13,7 @@ list1 = [10, 20, 30, 40, 50]
 # [50, 40, 30, 20, 10]
 
 
-#2 (2) Adott az alábbi lista, írj egy programz, ami minden elemét a négyzetre emeli és kiírja
+#2 (2) Adott az alábbi lista, írj egy programot, ami minden elemét a négyzetre emeli és kiírja
 
 numbers = [1, 2, 3, 4, 5, 6, 7]
 
@@ -35,7 +35,7 @@ list42 = ["Ponti", "Báltin"]
 # várt kimenet
 # ["Szia Ponti", "Szia Bálint", "Hello Ponti", "Hello Bálint"]
 
-#5 (5) Adott két lista. Írj egy programot, ami végig iterál mindkettőt párhuzamosan és kiírja az elemeit egymás mellé elsőt eredeti sorrendbe, a másidokat fordított sorrendbe
+#5 (5) Adott két lista. Írj egy programot, ami végig iterál mindkettőn párhuzamosan és kiírja az elemeit egymás mellé elsőt eredeti sorrendben, a másidokat fordított sorrendben
 
 list51 = [10, 20, 30, 40]
 list52 = [100, 200, 300, 400]
